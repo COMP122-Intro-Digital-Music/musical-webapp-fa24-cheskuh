@@ -1,1 +1,49 @@
-[ ]
+[
+  {
+    "name": "Backrooms",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "0",
+      "portamento": "0.1",
+      "envelope": {
+        "attack": "0.1",
+        "attackCurve": "linear",
+        "decay": "0.3",
+        "decayCurve": "linear",
+        "release": "1.2",
+        "releaseCurve": "exponential",
+        "sustain": "0.6"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "sine"
+      }
+    }
+  },
+  {
+    "name": "When You Win an Arcade Game",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "1",
+      "portamento": "0.3",
+      "envelope": {
+        "attack": "0.02",
+        "attackCurve": "linear",
+        "decay": "1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "1"
+      },
+      "oscillator": {
+        "partialCount": "1",
+        "phase": 0,
+        "type": "fmsawtooth1"
+      }
+    }
+  }
+]

@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "Random number generator",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:1:0.0",
+        "pitch": "F4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "B4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "B3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "F4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "The flats",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:1:0.0",
+        "pitch": "Ab4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "Eb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "Bb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "Gb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "Bb4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]

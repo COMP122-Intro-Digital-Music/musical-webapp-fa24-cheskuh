@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Self Sabotage Intro ",
+    "file": "samples/myownsong.wav",
+    "bpm": "70",
+    "loop": "3m"
+  },
+  {
+    "name": "AOA Bohemian",
+    "file": "samples/aoa_rf.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "When You and I Were Young",
+    "file": "samples/whenyouandiwereyoung.wav",
+    "bpm": "83",
+    "loop": "1m"
+  }
+]
